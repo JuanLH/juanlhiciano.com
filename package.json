@@ -1,7 +1,7 @@
 {
-  "name": "wellingguzman.com",
+  "name": "juanlhiciano.net",
   "version": "1.6.0",
-  "description": "Welling Guzmán - Blog",
+  "description": "Juan Hiciano - Blog",
   "scripts": {
     "build": "node bin/compile",
     "dev": "node server.js dev",

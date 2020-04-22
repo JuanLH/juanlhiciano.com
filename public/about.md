@@ -1,12 +1,10 @@
-I am a software engineer focusing on web technologies and web-related solutions. I am passionate about the web, system design, open source, computers, mentoring, teaching and _reinventing the wheel_*.
+Soy ingeniero en sistemas, actualmente me dedico a programar software, me apaciona crear cosas nuevas, leer buenos articulos y escribirlos tambien. Me gusta mucho ayudar a las personas que van de tras de mi (a las pocas :p), para ellos espacialmente esta dedicado este espacio y porque no a los demas que quieran aprender o refrescar la memoria. Un abrazo virtual!
 
-![](//wellingguzman.com/images/me.jpg)
 
-APIs, infrastructure, accessibility, game development, MacOS, and iOS development are some of the stuff I enjoy working with.
+![](/images/me.jpg)
 
-- Read even shorter (_mostly non-sense_) notes on Twitter: [@wellingguzman](https://twitter.com/wellingguzman)
-- Check my code on Github: [wellingguzman](https://github.com/wellingguzman)
+Actualmente trabajo con sistemas financieros, administrativos y comerciales, mi dia a dia se torna en dar mantenimiento a estos sistemas.
 
-Please feel free to contact me via [email](mailto:&#104;&#111;&#108;&#097;&#064;&#119;&#101;&#108;&#108;&#105;&#110;&#103;&#103;&#117;&#122;&#109;&#097;&#110;&#046;&#099;&#111;&#109;).
+- Puedes saber un poco mas sobre mi accediendo a mi twitter, aveces escribo pequeñas cosas comúnmente de opiniones. [@juanlhiciano](https://twitter.com/juanlhiciano)
 
-_*I am passionate about how things works and were made. I love recreating things for the sake of learning. We could learn why something was created and what problem it solved._
+- Puedes ver mi código en Github: [JuanLH](https://github.com/JuanLH)
