@@ -8,7 +8,8 @@
     "main_nav": {
       "Inicio": "/",
       "Notas": "/notes",
-      "Sobre mi": "/about"
+      "Sobre mi": "/about",
+      "Temas":"/tags"
     },
     "formats": {
       "date": "DD.MM.YYYY",
@@ -27,8 +28,12 @@
         "href": "https://github.com/juanlh",
         "rel": "noopener",
         "target": "_blank"
+      },
+      "Youtube": {
+        "href": "https://www.youtube.com/channel/UCROkUOPcuiXycXZXm47Sjug",
+        "rel": "noopener",
+        "target": "_blank"
       }
-      
     }
   }
 }

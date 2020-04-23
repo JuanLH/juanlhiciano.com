@@ -33,10 +33,10 @@ block footer_top
             - var prev = notes[i-1];
             - var next = notes[i+1];
             if (next)
-              .note-nav-item.note-nav-next » Next: 
+              .note-nav-item.note-nav-next » Proximo artículo: 
                 a(rel="next", href="#{next.path}", title="#{next.title}") #{next.title}
             if (prev)
-              .note-nav-item.note-nav-prev « Previous: 
+              .note-nav-item.note-nav-prev « Artículo anterior: 
                 a(rel="prev", href="#{prev.path}", title="#{prev.title}") #{prev.title}
             .note-nav-item.note-nav-index ← 
-              a(href="/notes") Back to index
+              a(href="/notes") Pagina principal
