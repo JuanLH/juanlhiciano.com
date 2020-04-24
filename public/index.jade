@@ -3,13 +3,13 @@ block header
     .container
       .content
         .hero
-          h1 Welcome!
-          p I'm Welling Guzman. I'm a world wide web programmer, and this is my personal website.
+          h1 Bienvenido!
+          p Soy Juan Hiciano, Ingeniero de Sistemas, amante de la tecnología y las buenas historias. 
 
   hr#hr-header
 
 .box
-  h2 Latest notes
+  h2 Últimas notas
   != partial('./_shared/list', { displayYear: false, notes: partial('_shared/notes', { limit: 8 }) })
   p
-    a(href="/notes") All notes
+    a(href="/notes") Todas las notas

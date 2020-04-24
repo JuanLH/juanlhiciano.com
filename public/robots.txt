@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wellingguzman.com/sitemap.xml
+Sitemap: https://juanlhiciano.net/sitemap.xml
