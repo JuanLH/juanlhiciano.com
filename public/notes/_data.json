@@ -8,5 +8,12 @@
     "date": "2020-04-22 16:00:00",
     "published": true,
     "tags": ["ingenieria"]
+  },
+  "la-importancia-de-las-cosas-sencillas":{
+    "title": "La importancia de las cosas sencillas",
+    "lang": "es",
+    "date": "2020-04-25 16:40:00",
+    "published": true,
+    "tags": ["profesional", "generico"]
   }
 }

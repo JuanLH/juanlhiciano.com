@@ -19,5 +19,11 @@
   },
   "java": {
     "title": "Java"
+  },
+  "generico": {
+    "title": "Generico"
+  },
+  "profesional": {
+    "title": "Profesional"
   }
 }
